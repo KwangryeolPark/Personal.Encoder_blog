@@ -4796,7 +4796,7 @@
     "scope": null
   },
   {
-    "ID": "c:pid.c@27@macro@I_GAIN",
+    "ID": "c:pid.c@64@macro@I_GAIN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "I_GAIN",
@@ -4810,7 +4810,7 @@
     "scope": null
   },
   {
-    "ID": "c:pid.c@46@macro@D_GAIN",
+    "ID": "c:pid.c@120@macro@D_GAIN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "D_GAIN",
@@ -4824,7 +4824,7 @@
     "scope": null
   },
   {
-    "ID": "c:pid.c@65@macro@TIME",
+    "ID": "c:pid.c@176@macro@TIME",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "TIME",
@@ -4984,7 +4984,7 @@
     "display": "unsigned int pControlSystem(void)",
     "location": {
       "column": "14",
-      "line": "22",
+      "line": "29",
       "path": "E:\\ARM\\Projects\\Encoder_motor\\blog\\pid.c"
     },
     "name": "pControlSystem",
@@ -4998,7 +4998,7 @@
     "display": "unsigned int iControlSystem(void)",
     "location": {
       "column": "14",
-      "line": "26",
+      "line": "43",
       "path": "E:\\ARM\\Projects\\Encoder_motor\\blog\\pid.c"
     },
     "name": "iControlSystem",
@@ -5012,7 +5012,7 @@
     "display": "unsigned int dControlSystem(void)",
     "location": {
       "column": "14",
-      "line": "30",
+      "line": "57",
       "path": "E:\\ARM\\Projects\\Encoder_motor\\blog\\pid.c"
     },
     "name": "dControlSystem",
@@ -5026,7 +5026,7 @@
     "display": "unsigned int pidControlSystem(void)",
     "location": {
       "column": "14",
-      "line": "34",
+      "line": "71",
       "path": "E:\\ARM\\Projects\\Encoder_motor\\blog\\pid.c"
     },
     "name": "pidControlSystem",
@@ -6178,7 +6178,7 @@
     "display": "int main(void)",
     "location": {
       "column": "5",
-      "line": "72",
+      "line": "93",
       "path": "E:\\ARM\\Projects\\Encoder_motor\\blog\\blog.c"
     },
     "name": "main",
