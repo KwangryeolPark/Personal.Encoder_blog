@@ -1,7 +1,5 @@
 # Personal.Encoder_blog
 블로그에서 사용할 엔코더 모터 속도 제어용 코드입니다.
-# University.3rd.Class.Advanced_Topics_in_Convergence_Electronics
-융합전자공학특강 프로젝트입니다.
    
    
    
